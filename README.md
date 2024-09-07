@@ -5,7 +5,7 @@ Mission for the ARL 2024 Autonomous Mobile Robots and Automated Driving Systems 
 - Coding Assignments
     - Coding Assignment 1: Accessible Coding Assignment
     - Coding Assignment 2: Challenging Coding Assignment
-- Debnugging Assignment
+- Debugging Assignment
 - Simple Questions: Easy Questions for interviewees to read about and discuss in different topics
     1. Perception
     2. State Estimation
