@@ -1,3 +1,19 @@
+# Description
+## Binary Tree
+A binary search tree is a data structure that is used to store data in a way that allows for fast search, insert, and delete operations. A binary search tree is a binary tree in which each node has a value, a left child, and a right child. The left child of a node has a value that is less than the value of the node, and the right child of a node has a value that is greater than the value of the node. The binary search tree property ensures that the values in the tree are ordered, which allows for efficient search operations.
+
+## Depth-First Search
+To find the closest value in a binary search tree to a given target value, we can perform a depth-first search (DFS) traversal of the tree. During the traversal, we can keep track of the closest value encountered so far and update it whenever we find a closer value. We can start the traversal at the root of the tree and recursively visit the left or right child of each node based on the value of the target and the value of the current node.
+
+## Debugging the docker image
+
+When trying to build the cpp project using the provided `Dockerfile`, you encounter an error. Your task is to debug this error and fix it. Document the error you encountered and the steps you took to fix it, and provide resources that helped you in the debugging process. (BONUS: fix the error in the provided `Dockerfile`)
+
+## Debugging the code
+
+After successfully building the project, you run the binary and encounter a logical error in the implementation of the DFS traversal. The program is not returning the correct closest value to the target value. Your task is to debug this error and fix it. Document the error you encountered and the steps you took to fix it, and provide resources that helped you in the debugging process.
+
+
 # To Install Docker
 
 ## Windows
